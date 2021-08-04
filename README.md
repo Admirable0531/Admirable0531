@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+One of many developers of FYP1 and FYP2.
+
+Currently working on FYP2 + school exam.
+
+Things to do for now:
+  Finish FYP2
+  Continue to develop a discord bot
+  Create an online multiplayer game on a website (Puyo puyo)
+  Get into a university 
+  
+
+![I like to procrastinate](https://media0.giphy.com/media/PH2A1MuzfFzvG/giphy.gif?cid=ecf05e47433335d7df9aebaf1c31099ed71b00fcc28ad65f&rid=giphy.gif)
