@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Admirable0531/Admirable0531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-One of many developers of FYP1 and FYP2.
+### One of many developers of FYP1 and FYP2.
 
 Currently working on FYP2 + school exam.
 
