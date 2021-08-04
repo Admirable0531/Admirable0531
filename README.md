@@ -1,8 +1,9 @@
 ### One of many developers of FYP1 and FYP2.
 
-Currently working on FYP2 + school exam.
+**Currently working on:**
+> FYP2 + school exam.
 
-**Things to do in the future**:
+**Things to do in the future:**
 
 >Finish FYP2<br>
 
@@ -15,7 +16,7 @@ Currently working on FYP2 + school exam.
 >Get into a university <br>
 
 
-**Things that i had done**:
+**Things that i had done before:**
 >FYP1<br>
 
 ![illya](https://media0.giphy.com/media/PH2A1MuzfFzvG/giphy.gif?cid=ecf05e47433335d7df9aebaf1c31099ed71b00fcc28ad65f&rid=giphy.gif)
