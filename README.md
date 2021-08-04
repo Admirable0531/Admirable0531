@@ -1,20 +1,21 @@
 ### One of many developers of FYP1 and FYP2.
 
 **Currently working on:**
-> FYP2 + school exam.
+> FYP2<br>
+
+> School exam
 
 **Things to do in the future:**
 
->Finish FYP2<br>
+> Finish FYP2<br>
 
->Continue to develop a discord bot<br>
+> Continue to develop a discord bot<br>
 
->Create an online multiplayer game on a website (Puyo puyo)<br>
+> Create an online multiplayer game on a website (Puyo puyo)<br>
 
->Make a website which shows all kinds of different stats of my own using different APIS (Mostly game stats)
+> Make a website which shows all kinds of different stats of my own using different APIS (Mostly game stats)
 
->Get into a university <br>
-
+> Get into a university <br>
 
 **Things that i had done before:**
 >FYP1<br>
