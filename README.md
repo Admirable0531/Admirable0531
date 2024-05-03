@@ -18,5 +18,6 @@
 > FYP1 <br>
 > FYP2 <br>
 > Get into a university <br>
+> JLPT N4 <br>
 
 ![illya](https://media0.giphy.com/media/PH2A1MuzfFzvG/giphy.gif?cid=ecf05e47433335d7df9aebaf1c31099ed71b00fcc28ad65f&rid=giphy.gif)
