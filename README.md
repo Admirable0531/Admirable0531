@@ -1,7 +1,7 @@
-### One of many developers of FYP1 and FYP2.
+### I do stuff sometimes
 
 **Currently working on:**
-> Assignments <br>
+> Intern <br>
 > Learning Japanese <br>
 
 **Things I would like to do in the future:**
