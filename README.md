@@ -1,22 +1,31 @@
 ### I do stuff sometimes
 
+**About me:**
+> Name: Azu / Admirable <br>
+> Status: Open to work <br>
+> Email: kianyongchoo@outlook.com
+> Nationality: Malaysian
+
+
 **Currently working on:**
-> Finishing University <br>
+> Finding Work <br>
 > Learning Japanese <br>
+> Development of personal Discord bot <br>
+> Expanding my tech stack <br>
+> Learning new things everyday <br>
 
 **Things I would like to do in the future:**
 
-> Continue to develop my Maimai discord bot<br>
-
-> Create an online multiplayer game on a website (Puyo puyo)<br>
-
-> Make a website which shows all kinds of different game stats of my own using different APIS
-
+> Tune an AI LLM model <br>
+> Recreate puyo puyo on a website like tetr.io <br>
+> Earn enough for me to live in Japan and do work remotely (End Goal) <br>
 
 
 **Things that i had done:**
-> FYP1 <br>
-> FYP2 <br>
+> Finish my Bachelors in Computer Science <br>
 > JLPT N3 <br>
+> A Blockchain Authentication system for websites <br>
+> A 360 view Virtual School Tour Website <br>
+> A Discord bot that scrapes information and sends the information via Discord.js <br>
 
-![illya](https://media0.giphy.com/media/PH2A1MuzfFzvG/giphy.gif?cid=ecf05e47433335d7df9aebaf1c31099ed71b00fcc28ad65f&rid=giphy.gif)
+![atri](https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyOHlnazA1azl4b3l1bjFreDRmZ2wxcWw5bjhna3Q4bnV6eDN6MHMxciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nXksErQNgXH7reU9Jr/source.gif)
