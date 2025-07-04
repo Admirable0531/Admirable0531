@@ -2,9 +2,10 @@
 
 **About me:**
 > Name: Azu / Admirable <br>
+> Nationality: Malaysian <br>
+> Education: Fresh Grad in Computer Science <br>
 > Status: Open to work <br>
-> Email: kianyongchoo@outlook.com
-> Nationality: Malaysian
+> Email: kianyongchoo@outlook.com <br>
 
 
 **Currently working on:**
